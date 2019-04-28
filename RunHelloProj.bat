@@ -1,4 +1,4 @@
-cd C:\Program Files (x86)\Jenkins\workspace\HelloWorld
+cd "C:\Program Files (x86)\Jenkins\workspace\HelloWorld"
 
 javac  Hello.java
 
